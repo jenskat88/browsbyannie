@@ -1,0 +1,20 @@
+/* Navbar */
+.navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: .9rem;
+  letter-spacing: .1rem;
+  background-color: white!important;
+  opacity: .8;
+  width: 500px;
+}
+
+.nav-item {
+  padding: 0 25px 25px 25px;
+}
+
+/* jumbotron */
+.jumbotron {
+  background-color: white;
+  padding-top: 0;
+}
